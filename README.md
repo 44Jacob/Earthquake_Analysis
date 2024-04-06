@@ -1,4 +1,4 @@
-# Earthquake_Dashboard
+
 # Earthquakes Dashboard
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
