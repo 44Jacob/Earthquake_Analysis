@@ -77,6 +77,8 @@ const init = async () => {
         }, {
         'Techtonic Plates': tectonicLayer,
         'Earth Quakes': quakesLayer
+        }, {
+            collapsed: false
     }).addTo(map)
 
     // d3.json(url).then(data => {

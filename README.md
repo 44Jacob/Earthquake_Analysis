@@ -8,7 +8,7 @@
 ## Description
 The application provides updated earthquakes information word wide.
 
-![app_image](dashboard.png)
+![app_image](static/images/map.png)
 
 ## Table of Contents
 - [Installation](#installation)
